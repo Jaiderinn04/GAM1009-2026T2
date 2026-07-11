@@ -5,4 +5,8 @@
 \# Sumary
 
 * This repo is to manage all my Unreal engine project for the subject Game Scripting.
+* This week I will be looking at official Unreal Engine Documentation
+* I will also be looking at a style guide
+
+
 
