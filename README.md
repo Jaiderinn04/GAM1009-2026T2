@@ -10,3 +10,11 @@
 
 
 
+References 
+
+
+
+* Explosions Audio:
+
+https://levivb.itch.io/heavy-8bit-explosions-sounds
+
