@@ -10,11 +10,13 @@
 
 
 
-References 
+References
 
 
 
 * Explosions Audio:
 
 https://levivb.itch.io/heavy-8bit-explosions-sounds
+
+* Font: https://fonts.google.com/specimen/Alumni+Sans+Inline+One?categoryFilters=Feeling:%2FExpressive%2FLoud\&preview.script=Latn
 
